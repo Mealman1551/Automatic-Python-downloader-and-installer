@@ -159,6 +159,14 @@ Download source-code with this script: [Source-code](https://github.com/Mealman1
 ## Uninstall Dependencies
 Use this script to uninstall depedencies after successfully installing Python: [uninstall_dependencies.sh](https://github.com/Mealman1551/Automatic-Python-downloader-and-installer/releases/download/v1.0/uninstall_dependencies.sh)
 
+```bash
+chmod +x uninstall_dependencies.sh
+```
+
+```bash
+sudo ./uninstall_dependencies.sh
+```
+
 ## Notes
 
 - The script uses `curl` to retrieve the latest Python version and download the source tarball.
