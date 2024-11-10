@@ -31,3 +31,5 @@ echo "Cleaning up unused packages..."
 apt autoremove -y
 
 echo "All specified dependencies have been uninstalled."
+
+# (c) Mealman1551
