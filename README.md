@@ -151,6 +151,11 @@ fi
 echo "Python $LATEST_VERSION has been successfully installed."
 ```
 
+### No altinstall but a full install?
+Check out the script called 'install_python_full_install.sh' in: Main/install_python_full_install.sh for a full install.
+
+Download source-code with this script: https://github.com/Mealman1551/Automatic-Python-downloader-and-installer/archive/refs/tags/v1.0.tar.gz
+
 ## Notes
 
 - The script uses `curl` to retrieve the latest Python version and download the source tarball.
