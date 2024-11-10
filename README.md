@@ -151,10 +151,13 @@ fi
 echo "Python $LATEST_VERSION has been successfully installed."
 ```
 
-### No altinstall but a full install?
+## No altinstall but a full install?
 Check out the script called 'install_python_full_install.sh' in: Main/install_python_full_install.sh for a full install.
 
-Download source-code with this script: https://github.com/Mealman1551/Automatic-Python-downloader-and-installer/archive/refs/tags/v1.0.tar.gz
+Download source-code with this script: [Source-code](https://github.com/Mealman1551/Automatic-Python-downloader-and-installer/archive/refs/tags/v1.0.tar.gz)
+
+## Uninstall Dependencies
+Use this script to uninstall depedencies after successfully installing Python: [uninstall_dependencies.sh](https://github.com/Mealman1551/Automatic-Python-downloader-and-installer/releases/download/v1.0/uninstall_dependencies.sh)
 
 ## Notes
 
