@@ -71,3 +71,4 @@ fi
 
 echo "Python $LATEST_VERSION has been successfully installed."
 
+# (c) Mealman1551
