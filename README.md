@@ -17,12 +17,14 @@ This Bash script automates the installation of the latest version of Python from
 
 ## Usage
 
-1. Save the script to a file, for example, `install_python.sh`.
-2. Make the script executable:
+1. Save the script via the link down here `install_python.sh`.
+ 
+[`install_python.sh`](https://github.com/Mealman1551/Automatic-Python-downloader-and-installer/releases/download/v1.0/install_python.sh)
+
    ```bash
    chmod +x install_python.sh
    ```
-3. Run the script with root privileges:
+4. Run the script with root privileges:
    ```bash
    sudo ./install_python.sh
    ```
